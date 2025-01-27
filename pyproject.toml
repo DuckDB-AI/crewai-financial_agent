@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "financial_agent"
-version = "v0.2.0"
+version = "v0.3.0"
 description = ""
 authors = []
 readme = "README.md"
