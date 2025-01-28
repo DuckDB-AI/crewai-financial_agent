@@ -249,7 +249,7 @@ if __name__ == "__main__":
             f"financial_agent/configs/deployment.json",
             node_url=os.getenv("NODE_URL"),
             user_id=None,
-            load_persona_data=True,
+            load_persona_data=False,
             is_subdeployment=False
         )
     )
